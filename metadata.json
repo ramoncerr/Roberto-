@@ -1,0 +1,6 @@
+{
+  "name": "CorteYarda - Calculadora Textil de Yardas y Piezas",
+  "description": "Calculadora profesional para talleres y confección: calcula las yardas necesarias ingresando la cantidad de piezas y las piezas por yarda, con cálculo de merma, rollos y costos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
